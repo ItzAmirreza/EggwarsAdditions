@@ -1,0 +1,13 @@
+#Eggwars 2 Additions By Dead_Light ver1.0
+
+#name of lobby(spawn) world
+lobby: "world"
+
+#random command messages customizations
+matchFound: "&aArena morede nazar peyda shod: &b %arena%"
+noMatch: "&cDar hale hazer hich arenayi vojod nadarad..."
+
+
+#match is going to start
+starting-alert: true
+starting-alert-message: "&6%arena% &bDar hale start shodan mibashad &a(Click Baraye Join)"

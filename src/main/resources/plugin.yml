@@ -1,0 +1,15 @@
+name: EA2
+version: ${project.version}
+main: ir.deadlight.ea2.EA2
+authors: [ Dead_Light ]
+description: Eggwars additions 2
+commands:
+  random:
+    description: randomly join an arena
+    aliases:
+      - autojoin
+  eggwarsadditions:
+    description: plugin's main commands
+    aliases:
+      - ea
+      - ewa
